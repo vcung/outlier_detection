@@ -1,0 +1,25 @@
+@relation dataset2
+@attribute F1 numeric
+@attribute F2 numeric
+@attribute EX string
+@data
+5.0,1.0,ex0
+5.0,1.0,ex1
+5.0,1.6,ex2
+5.0,1.6,ex3
+5.0,1.0,ex4
+5.0,1.0,ex5
+2.0,0.0,ex6
+5.0,3.0,ex7
+5.0,1.0,ex8
+5.0,1.6,ex9
+5.0,1.3,ex10
+5.0,1.0,ex11
+5.0,1.6,ex12
+5.0,4.0,ex13
+5.0,1.6,ex14
+5.0,1.0,ex15
+5.0,1.6,ex16
+5.0,1.6,ex17
+5.0,0.0,ex18
+4.5,1.6,ex19
